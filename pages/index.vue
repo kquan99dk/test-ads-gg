@@ -1,5 +1,10 @@
 <template>
   <div>
+    <h1>shop Pr trend hot tiktok google xu huong</h1>
+    <h2>shop Pr trend hot tiktok google xu huong</h2>
+    <h3>shop Pr trend hot tiktok google xu huong</h3>
+    <h4>shop Pr trend hot tiktok google xu huong</h4>
+    <h5>shop Pr trend hot tiktok google xu huong</h5>
     <!-- <div class="ct-select">
       <v-menu rounded="rounded" offset-y>
         <template v-slot:activator="{ attrs, on }">
@@ -27,9 +32,10 @@
     </div> -->
 
     <div class="pr-ads">
-      <adsbygoogle class="pr-ads-content"/>
+      <adsbygoogle />
     </div>
-
+    <img width="200px" height="200px"  src="https://avi.edu.vn/wp-content/uploads/2019/11/london-2393098.jpg" alt="pari">
+    <img width="200px" height="200px"  src="https://vuongquocanh.com/wp-content/uploads/2018/05/london-eye-800x534.jpg" alt="shop">
     <div class="footer mt-5">
       <v-expansion-panels>
         <v-expansion-panel v-for="(item, i) in itemss" :key="i">
@@ -135,13 +141,10 @@ export default {
 </script>
 <style lang="scss">
   .pr-ads {
-    width: 300px;
-    height: 300px;
-  }
-  .pr-ads-content {
-    width: 100%;
-    height: 100%;
-  }
+    height: 200px;
+    width: 200px;
+  border: 1px solid red;
+}
 .ct-select {
   .v-btn__content {
     .btn-ct {
