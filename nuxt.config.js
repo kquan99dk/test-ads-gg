@@ -54,7 +54,6 @@ export default {
   // },
   'google-adsense': {
     id: 'ca-pub-5244038176247585',
-    // test: true,
   },
 
   // Vuetify module configuration: https://go.nuxtjs.dev/config-vuetify
