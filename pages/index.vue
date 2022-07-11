@@ -32,7 +32,7 @@
     </div> -->
 
     <div class="pr-ads">
-      <adsbygoogle ad-slot="9232286674" />
+      <adsbygoogle  />
     </div>
     <img width="200px" height="200px"  src="https://avi.edu.vn/wp-content/uploads/2019/11/london-2393098.jpg" alt="pari">
     <img width="200px" height="200px"  src="https://vuongquocanh.com/wp-content/uploads/2018/05/london-eye-800x534.jpg" alt="shop">
